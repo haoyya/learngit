@@ -5,9 +5,7 @@ public class HelloWorld
 		system.out.println("Hello Word!");
 	}
 
-	class process 
-	{
-		String a = "A";
-		String b = "B";
+	void execute(String app) {
+		String app = app;
 	}
 }
