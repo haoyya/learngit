@@ -4,4 +4,8 @@ public class HelloWorld
 
 		system.out.println("Hello Word!");
 	}
+
+	void execute(String app) {
+		String app = app;
+	}
 }
